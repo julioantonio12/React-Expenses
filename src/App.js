@@ -21,7 +21,7 @@ function App() {
     //   </header>
     // </div>
     <div>
-      <h2>Hola a todos!</h2>
+      <h2>Gastos realizados</h2>
       <ExpenseItem />
     </div>
   );
