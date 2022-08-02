@@ -1,6 +1,6 @@
 import "./Card.css";
 
-function Card(props) {
+const Card = (props) => {
   //props.className contains the classes from the children
   const classes = "card " + props.className;
   return (
