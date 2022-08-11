@@ -9,7 +9,7 @@ const DUMMY_EXPENSES = [
     id: "e1",
     title: 'Monitor Game Factor 27" QHD',
     amount: 4999.5,
-    date: new Date(2020, 7, 14),
+    date: new Date(2020, 4, 14),
   },
   {
     id: "e2",
