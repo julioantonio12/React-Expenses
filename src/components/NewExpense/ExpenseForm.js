@@ -40,7 +40,7 @@ const ExpenseForm = (props) => {
         </div>
 
         <div className="new-expense__control">
-          <label>Cantidad</label>
+          <label>Cantidad ($)</label>
           <input
             type="number"
             onChange={amountChangeHandler}
